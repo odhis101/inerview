@@ -5,7 +5,6 @@ Navigation:
 Authentication:
 - expo-auth-session - OAuth implementation
 - expo-web-browser - Browser integration for OAuth
-- expo-crypto - Cryptographic functions
 
 Storage:
 - @react-native-async-storage/async-storage - Local data persistence
@@ -25,5 +24,8 @@ Authentication Flow:
 2. AuthContext manages state
 3. AsyncStorage for persistence
 4. Conditional rendering based on auth state
+   
 
 Pattern: Token-based authentication simulation
+
+For videos and screenshots there is a zipped folder that holds the videos and screenshots  
